@@ -12,9 +12,6 @@ The tasks below are simple and therefore we'd like simple solutions where you sh
 * Clear, maintainable code.
 * Leverage [design patterns](https://www.journaldev.com/1827/java-design-patterns-example-tutorial).
 * Send us the repository link for the project along with the test results attached checked in as HTML report.
-* Please use:
-  * If you are applying for permanent position: Java + Cucumber + JUnit/TestNG or Scala + ScalaTest.
-  * If you are applying for contract position: Scala + ScalaTest.
 
 ## Quality Engineer Assignment  
 ## Task 1: Functional E2E Automation
