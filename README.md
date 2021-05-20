@@ -28,7 +28,7 @@ On average, this task can be completed in 2-3 hours, but you are welcome to spen
 
 ## Task 2: Functional API Testing
 Functional automation for API testing.
-Write a test in Java or Scala for the following REST API:
+Write a test in Java or Karate or any automation framework for the following REST API:
 
 https://jsonplaceholder.typicode.com/
 
