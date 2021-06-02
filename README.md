@@ -46,7 +46,7 @@ We understand unit testing is not traditionally the job of a QA, and we don't ex
 It would be really nice if you have the time, to try to complete one out of the 3 tasks in the test-exercise folder.
 
 **Task Details**
-In total there are 3 tasks you need to complete. You'll need to follow instructions for each individual exercise in the [unit testing folder](https://github.com/gumtreeuk/technical-assignment-qa/tree/master/test-exercise). Please fork the code from there and create your tests in there.
+In total there are 3 tasks you need to complete. You'll need to follow instructions for each individual exercise in the [unit testing folder](https://github.com/muralidhar-edam/technical-assignment-qa/tree/master/test-exercise). Please fork the code from there and create your tests in there.
 
 On average, this task can be completed in 2-3 hours, once you have understood the unit testing concepts, but you are welcome to spend more time on it to submit a better quality code. Please not that you won't be required to use mocks for every unit, so please use your judgement.
 
